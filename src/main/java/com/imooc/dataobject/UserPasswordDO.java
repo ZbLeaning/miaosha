@@ -1,5 +1,7 @@
 package com.imooc.dataobject;
 
+import org.springframework.stereotype.Repository;
+
 public class UserPasswordDO {
     /**
      *
